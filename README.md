@@ -38,7 +38,7 @@ Practice TensorFlow code implementing deep learning models
 
 Part 1: Implementing CNN
 To understand CNN architecture before using the TensorFlow 
-Implement forward / backward passes for (1) convolution layer and (2) max pooling layer
+Implement forward / backward passes for (1) convolution layer and (2) max pooling layer
 
 Part 2: Training CNN
 Learn how to define, train, and evaluate CNNs with TensorFlow
@@ -46,7 +46,7 @@ Explore various hyperparameters to design a better CNN model
 
 Part 3: Visualizing CNN
 Learn how to visualize and interpret a trained CNN model
-Implement the codes for generating (1) image-specific class saliency maps,(2) class representative images, and (3) adversarial examples
+Implement the codes for generating (1) image-specific class saliency maps, (2) class representative images, and (3) adversarial examples
 
 
 ### Assignment3 : Recurrent Neural Networks
