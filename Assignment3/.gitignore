@@ -1,0 +1,8 @@
+/models_captioning/*
+/models_char_rnn/*
+/nmt_checkpoint/*
+/transformer_checkpoint/*
+/coco/coco_captioning/*
+/iwslt2016/*
+/data/tinyshakespeare/*
+*.pptx
